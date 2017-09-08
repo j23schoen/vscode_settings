@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true
+    },
+    "gitlens.blame.line.annotationType": "",
+    "window.title": "${activeEditorShort}${separator}${rootPath}",
+    "window.zoomLevel": -1,
+    "explorer.autoReveal": false,
+    "workbench.colorCustomizations": {
+        "editor.wordHighlightBackground": "#8e7731",
+        "editor.selectionBackground": "#2e4882"
+    },
+    "editor.minimap.enabled": false
+}
